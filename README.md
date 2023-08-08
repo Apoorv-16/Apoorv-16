@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Apoorv Jain</h1>
 <h3 align="center">An aspiring and passionate web developer from India</h3>
 
-- 🔭 I’m currently working at **Deloitte-USI**
+- 🔭 I’m currently working at **Deloitte-USI** 
 
 - 🌱 I’m currently learning **react**
 
