@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Deloitte-USI** 
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **NextJs**
 
 - 🤝 I’m looking for a new role of **Software Engineer**
 
