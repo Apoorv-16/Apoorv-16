@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Apoorv Jain</h1>
 <h3 align="center">An aspiring and passionate web developer from India</h3>
 
-- 🔭 I’m currently working at **Deloitte-USI** 
+- 🔭 I’m currently working at **Mobile Premier League** 
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **NextJs, Solana**
 
-- 🤝 I’m looking for a new role of **Software Engineer**
+- 🤝 I’m looking for a new role of **Software Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Apoorv-16](https://github.com/Apoorv-16)
 
